@@ -1,0 +1,2 @@
+# IArecognizer
+Python + OpenCV
