@@ -4,7 +4,7 @@ cap = cv2.VideoCapture(0, cv2.CAP_DSHOW)  # utilizar la wecam
 
 # para utilizar el mdodelo que genera el soft
 majinBooClassif = cv2.CascadeClassifier(
-    'C:/Users/Benjamin/Desktop/SENA bootcamp/Bootcamp-IA-2021-Mentores/D_01_WS_4_LIBRERIAS_PYTHON/04_Modelo_Basico_IA/classifier/cascade.xml')
+    'C:/Users/Usuario/Desktop/proyectos python/IArecognizer/classifier/cascade.xml')
 
 while True:
 
